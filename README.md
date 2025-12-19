@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Saniru
 
-**Software Engineering Undergraduate | Frontend Developer | Full-Stack Enthusiast**
+**Software Engineering Undergraduate | Full-Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanirukumarapeli)
 ![Profile Views](https://komarev.com/ghpvc/?username=sanirukumarapeli&color=6F42C1&style=flat-square)
@@ -14,8 +14,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Software Engineering student at **NIBM University**
-- 💻 Passionate about **Frontend & Full-Stack Development**
-- 🌱 Currently learning **Modern Web Technologies**
+- 💻 Passionate about **Full-Stack Development**
+- 🌱 Currently learning **Modern Technologies**
 - 🛠️ Building real-world projects
 
 ---

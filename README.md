@@ -1,72 +1,40 @@
-<h1 align="center">
-  Hi 👋, I'm Saniru
-</h1>
+# Saniru Kumarapeli
+
+**Software Engineering Undergraduate** · Frontend Developer · Full-Stack Enthusiast
+
+---
+
+### About
+
+🎓 Studying Software Engineering at **NIBM University**  
+💻 Building real-world web applications  
+🌱 Currently focused on full-stack development & clean code practices
+
+---
+
+### Tech Stack
+
+**Frontend:** HTML · CSS · JavaScript · React  
+**Backend:** Node.js · Express · Java  
+**Database:** MySQL · MongoDB  
+**Tools:** Git · GitHub · VS Code
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6F42C1&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;Frontend+Developer;Passionate+about+Web+Technologies;Always+Learning+%26+Building" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&show_icons=true&theme=default&hide_border=true&hide_title=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&layout=compact&theme=default&hide_border=true&hide_title=true&bg_color=00000000" height="150" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### Connect
 
-- 🎓 Software Engineering Undergraduate at **NIBM University**
-- 🌐 Interested in **Full-Stack Development**
-- 🚀 Love building real-world projects
-- 📚 Constantly learning modern technologies
+[![GitHub](https://img.shields.io/badge/GitHub-sanirukumarapeli-181717? style=flat&logo=github)](https://github.com/sanirukumarapeli)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:your.email@example. com)
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,express,mysql,mongodb,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanirukumarapeli&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Current Focus
-
-- 🎨 Advanced Frontend and Backend Development
-- ⚙️ Building Full-Stack Applications
-- 🧠 Clean Code & Best Practices
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/sanirukumarapeli">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanirukumarapeli&label=Profile%20Views&color=6F42C1&style=flat" />
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories!
-</p>
+<sub>Thanks for visiting!  ⭐</sub>

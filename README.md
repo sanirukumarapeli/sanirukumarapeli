@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Saniru
+# Hi I'm Saniru Dewmina
 
 **Software Engineering Undergraduate | Full-Stack Developer**
 

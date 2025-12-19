@@ -54,6 +54,8 @@
 
 **Open to collaborations and interesting projects!**
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanirukumarapeli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanirukumaraplei@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanirudewmina/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanirukumarapeli)
 
 </div>

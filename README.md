@@ -43,7 +43,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 

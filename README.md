@@ -4,8 +4,7 @@
 
 **Software Engineering Undergraduate | Full-Stack Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanirukumarapeli)
-![Views](https://komarev.com/ghpvc/?username=sanirukumarapeli&color=6F42C1&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=sanirukumarapeli&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 

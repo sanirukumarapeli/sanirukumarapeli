@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate at **NIBM University**
-- 🌐 Interested in **Frontend & Full-Stack Development**
+- 🌐 Interested in **Full-Stack Development**
 - 🚀 Love building real-world projects
 - 📚 Constantly learning modern technologies
 
@@ -47,7 +47,7 @@
 
 ## 📌 Current Focus
 
-- 🎨 Advanced Frontend Development
+- 🎨 Advanced Frontend and Backend Development
 - ⚙️ Building Full-Stack Applications
 - 🧠 Clean Code & Best Practices
 

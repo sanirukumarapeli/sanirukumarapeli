@@ -1,77 +1,74 @@
-<div align="center">
-
 # Saniru Dewmina
 
-**Software Engineering Undergraduate | Aspiring AI/ML Engineer**
+**Computer Science Undergraduate | Aspiring AI & Machine Learning Engineer**  
+*Specializing in scalable software architecture, data pipelines, and intelligent systems.*
 
-<a href="https://www.linkedin.com/in/sanirudewmina/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sanirukumaraplei@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sanirukumarapeli&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/sanirudewmina/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanirukumaraplei@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sanirukumarapeli&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </div>
 
 ---
 
-## About
+## 🎯 Professional Profile
 
-I'm a Software Engineering undergraduate building a strong foundation in **software engineering** and transitioning toward a career in **Artificial Intelligence / Machine Learning**. I enjoy designing scalable solutions and exploring how AI/ML can solve real-world problems.
+I am a Computer Science undergraduate student with a rigorous foundation in production-grade software engineering and a specialized focus on transitioning into Artificial Intelligence and Machine Learning. My engineering background equips me with a unique advantage: I don't just build machine learning models; I understand the backend architecture, database systems, and data pipelines required to deploy them into production environments at scale.
 
-- **Current focus:** AI/ML fundamentals, model development, and practical projects
-- **Strengths:** Full-stack development, backend APIs, databases, and Git-based workflows
-- **Open to:** internships, research opportunities, and collaborative projects
-
----
-
-## Skills
-
-**AI/ML (Learning & Building)**
-- Python (learning path), NumPy, Pandas, scikit-learn (in progress)
-- Machine Learning fundamentals: supervised learning, model evaluation, feature engineering
-
-**Software Engineering**
-- Java, JavaScript
-- React, Node.js, Express.js
-- REST APIs, MVC patterns, basic system design
-
-**Databases & Tools**
-- MySQL, MongoDB
-- Git, VS Code
+*   **AI/ML Objectives:** Developing expertise in data preprocessing, feature engineering, and predictive modeling using Python ecosystems.
+*   **Data Architecture:** Experienced in designing complex data schemas, optimization, and managing automated ETL pipelines.
+*   **Systems & Integration:** Capable of building resilient, pattern-driven backend APIs to serve intelligent features seamlessly.
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Capabilities
+
+### 🧠 Data Science & Machine Learning
+*   **Languages & Core Libraries:** Python, NumPy, Pandas, scikit-learn
+*   **Methodologies:** Supervised learning frameworks, feature engineering, dataset preprocessing, and statistical model evaluation
+
+### 🗄️ Data Engineering & Database Management
+*   **Databases:** Oracle Database Management, MySQL, MongoDB
+*   **Pipeline Design:** Data extraction, transformation, and loading (ETL) processing, Galaxy Schema design, and automated dataset injection scripts
+
+### 💻 Software Engineering & Backend Architecture
+*   **Ecosystems:** .NET Ecosystem (C#, ASP.NET Core), Java, Node.js (Express.js)
+*   **Frontend & Web:** JavaScript, React, MVC architectural patterns, and responsive web design
+*   **Tooling:** Git/GitHub, Enterprise IDEs, Linux environments, and VS Code ecosystem automation
+
+---
+
+## 🚀 Featured Projects & Industry Experience
+
+### Industrial Experience & Technical Exposure | IFS R&D International
+*   Completed an intensive industrial technical program focusing on enterprise-scale R&D operations, software delivery pipelines, and corporate engineering standards.
+
+### Academic & Practical Implementations
+*   **Automated Data Ingestion Engine:** Engineered Python-based scripts to clean, parse, and programmatically load complex external datasets directly into Oracle database structures.
+*   **Academic Evaluation Platform:** Developed a frontend-centric web application engineered for complex algorithms and real-time GPA computations.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+  <table border="0">
+    <tr>
+      <td><img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /></td>
+      <td><img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&show_icons=true&theme=github_dark&hide_border=true" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## GitHub Analytics
+## 📨 Contact & Collaboration
 
-<div align="center">
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
-  <br>
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</div>
+I am actively seeking internships, research collaborations, and open-source contributions at the intersection of Software Engineering and AI/ML.
 
----
-
-## Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/sanirudewmina/
-- **Email:** sanirukumaraplei@gmail.com
+*   **Professional Network:** [LinkedIn](https://www.linkedin.com/in/sanirudewmina/)
+*   **Secure Inquiries:** [sanirukumaraplei@gmail.com](mailto:sanirukumaraplei@gmail.com)

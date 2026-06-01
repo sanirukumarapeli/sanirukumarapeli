@@ -30,9 +30,11 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technical Arsenal
 
-### 🧠 Artificial Intelligence & Data Science
+<h3>🧠 Artificial Intelligence & Data Science</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" />
@@ -40,7 +42,7 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 💻 Backend & Core Systems
+<h3>💻 Backend & Core Systems</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
@@ -49,20 +51,22 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-### 🗄️ Database & Data Engineering
+<h3>🗄️ Database & Data Engineering</h3>
 <p>
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### 🎨 Frontend & Tooling
+<h3>🎨 Frontend & Tooling</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
@@ -88,12 +92,16 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
 
 ---
 
+<div align="center">
+
 ## 📨 Connect
 
 I am actively open to internships, collaborative open-source projects, and research opportunities in the Software Engineering and Machine Learning domains. 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanirudewmina/">
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<br>
+
+<a href="https://www.linkedin.com/in/sanirudewmina/">
+  <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>

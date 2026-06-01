@@ -18,7 +18,7 @@
 
 ## About
 
-I’m a Software Engineering undergraduate building a strong foundation in **software engineering** and transitioning toward a career in **Artificial Intelligence / Machine Learning**. I enjoy des[...]
+I'm a Software Engineering undergraduate building a strong foundation in **software engineering** and transitioning toward a career in **Artificial Intelligence / Machine Learning**. I enjoy designing scalable solutions and exploring how AI/ML can solve real-world problems.
 
 - **Current focus:** AI/ML fundamentals, model development, and practical projects
 - **Strengths:** Full-stack development, backend APIs, databases, and Git-based workflows
@@ -65,6 +65,8 @@ I’m a Software Engineering undergraduate building a strong foundation in **sof
 
 <div align="center">
   <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <br>
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---

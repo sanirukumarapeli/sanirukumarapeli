@@ -79,41 +79,6 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-### 📈 Stats Overview
-<table>
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=shiranlakshitha&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="shiranlaskthitha's GitHub Stats" />
-    </td>
-    <td>
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shiranlakshitha&theme=dark&background=0d1117&border=61dafb&stroke=61dafb&ring=61dafb&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=61dafb&dates=8b949e&hide_border=true&border_radius=10" alt="shiranlakshitha's Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-### 💻 Most Used Languages
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shiranlakshitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5" alt="shiranlakshitha's Top Languages" width="100%" />
-    </td>
-    <td width="50%" valign="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Animation" width="100%" height="100%" />
-    </td>
-  </tr>
-</table>
-
-### 📊 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiranlakshitha&custom_title=shiranlakshitha's%20Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=161b22&title_color=c9d1d9&area=true&border_radius=10" alt="shiranlakshitha's Activity Graph" />
-
-</div>
-
----
-
 <div align="center">
 
 ## 📨 Connect

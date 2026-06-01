@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi I'm Saniru Dewmina
+# Hi, I'm Saniru Dewmina
 
-**Software Engineering Undergraduate | Full-Stack Developer**
+**AI/ML-Focused Software Engineering Undergraduate**
+
+Building data-driven products and intelligent applications with a strong foundation in full-stack development.
 
 <img src="https://komarev.com/ghpvc/?username=sanirukumarapeli&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
@@ -12,14 +14,34 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **NIBM University**
-- 💻 Passionate about **Full-Stack Development**
-- 🌱 Currently learning **Modern Technologies**
-- 🛠️ Building real-world projects
+- Software Engineering student at **NIBM University**
+- Career focus on **Applied Machine Learning** and **AI Engineering**
+- Interested in **Deep Learning, NLP, and MLOps fundamentals**
+- Currently strengthening **Python, data analysis, and model deployment** skills
+- Open to **AI/ML internships, research projects, and collaborations**
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 AI/ML Focus (Learning & Practice)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ Core Tech Stack
 
 <div align="center">
 

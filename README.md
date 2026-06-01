@@ -1,5 +1,11 @@
 <div align="center">
 
+# Saniru Dewmina
+
+**Computer Science Undergraduate | Aspiring AI & Machine Learning Engineer**
+
+<br>
+
 <a href="https://www.linkedin.com/in/sanirudewmina/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -9,10 +15,6 @@
 <a href="https://github.com/sanirukumarapeli">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sanirukumarapeli&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Software+Engineer;Aspiring+AI%2FML+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -90,7 +92,7 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
 
 I am actively open to internships, collaborative open-source projects, and research opportunities in the Software Engineering and Machine Learning domains. 
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/sanirudewmina/">
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

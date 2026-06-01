@@ -79,15 +79,22 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/sanirukumarapeli">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/sanirukumarapeli">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub Stats" />
-  </a>
+<h3>📈 Stats Overview</h3>
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=sanirukumarapeli&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=61dafb&amp;icon_color=61dafb&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_radius=10" alt="Saniru's GitHub Stats" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=sanirukumarapeli&amp;theme=dark&amp;background=0d1117&amp;border=61dafb&amp;stroke=61dafb&amp;ring=61dafb&amp;fire=ff6b6b&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;currStreakNum=61dafb&amp;hide_border=true&amp;border_radius=10" alt="Saniru's Streak Stats" />
+</p>
+
+<h3>💻 Most Used Languages</h3>
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanirukumarapeli&amp;theme=dark&amp;hide_border=true&amp;layout=compact&amp;langs_count=5&amp;title_color=61dafb&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_radius=10" alt="Saniru's Top Languages" />
+  <img height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Animation" />
+</p>
+
 </div>
 
 ---

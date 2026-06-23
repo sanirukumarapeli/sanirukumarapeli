@@ -70,6 +70,14 @@ Based in Sri Lanka, I am a Computer Science undergraduate bridging the gap betwe
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanirukumarapeli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sanirukumarapeli" />
+</p>
+
+---
+
 ## 🚀 Experience & Initiatives
 
 *   **Industrial Exposure:** Conducted field research and analysis of enterprise R&D operations, agile delivery pipelines, and corporate software standards.
